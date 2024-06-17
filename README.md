@@ -1,4 +1,3 @@
 # CS410-rewards-maximizer
 
-[Team Bio's](./team-bio.html).
-[Team Presentation](./presentations.html).
+http://ens-labs.com/CS410-rewards-maximizer/
