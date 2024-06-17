@@ -3,7 +3,6 @@ plugins:
 - jekyll-remote-theme
 
 github:
-  url: http://ens-labs.com/CS410-rewards-maximizer
-  home: /
-  bio_url: /team-bio.html
-  presentation_url: /presentations.html
+  home: http://ens-labs.com/CS410-rewards-maximizer/
+  bio_url: http://ens-labs.com/CS410-rewards-maximizer/team-bio.html
+  presentation_url: http://ens-labs.com/CS410-rewards-maximizer/presentations.html
