@@ -8,5 +8,6 @@ layout: team-bio
 | Correy Xu        | ![Correy Bio Image](Images/CorreyBioImage.jpg)                             | Correy is a senior at ODU studying computer science. In his free time he enjoys watching films, working out, and cooking                                 |
 | Josh Annor       | ![Josh Bio Image](Images/joshpicture.jpeg)                                 | Senior at ODU majoring in Computer Science. Currently interning for Jacobs as a control systems engineer.Enjoys gaming on his free time                  |
 | Tori Crouthamel  | ![Tori Bio Image](Images/ToriBioImage.jpeg)                                | Tori is a junior at ODU studying computer science. She currently works as a technical consultant. In her free time she enjoys climbing and snowboarding. |
-| Example          | ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) | lorem ipsum etc etc etc                                                                                                                                  |
+| Derek Caldwell          | ![Derek Bio Image](Images/derek_bio_image.jpeg) |  Derek Caldwell is a currently a senior at ODU majoring in Computer Science. His hobbies include hiking and tinkering with his Vim configuration. 
+
 | Example          | ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) | lorem ipsum etc etc etc                                                                                                                                  |
