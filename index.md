@@ -2,4 +2,6 @@
 layout: default
 ---
 
-Rewards Maximizer focuses on assisting individuals in maximizing credit card points without requiring personal information. Many people, face challenges in deciding which credit card to use for specific purchases. With a multitude of credit card categories and numerous options listed on sites like NerdWallet, the process can be overwhelming for users wanting quick and accurate comparisons. Our solution is a web and mobile application featuring a minimalistic UI, and providing the tools for searching and comparing credit card rewards. Users can add their credit cards and vendor reward systems to a wallet within the app for easy comparison and optimization.
+## Project Description
+
+Rewards Maximizer is a software in the form of a website or mobile application that will allow you to maximize your credit card rewards in conjunction with vendor specific reward systems by providing you with a comparison from the credit cards that you may add and remove from your wallet. Guiding you to utilize the one that will maximize your rewards such as 3X points at restaurants and many other shopping categories. This along with vendor specific reward systems, will provide a meaningful combination of savings towards many future purchases.
