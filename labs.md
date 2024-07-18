@@ -4,4 +4,5 @@ layout: labs
 
 ## Lab 1 Group Outline | V1
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vTnT3hWyFb3dM9sBndY0iGByAZXw/edit?usp=sharing" frameborder="0" width="650" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<p>&nbsp;</p>
+<div style="text-align: center"><iframe src="https://docs.google.com/document/d/e/2PACX-1vSHYY7Epa-cbxZa8htIqMGAHWpyD4xwov8sX59kDnhmywoI5m7rJ79aDftqQ8OvmQ/pub?embedded=true"></iframe></div>
