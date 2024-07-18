@@ -2,9 +2,8 @@
 layout: references
 ---
 
-References
-
-- Deloitte. (n.d.). Taking a customer-centric approach to a data breach Insights from crisis response. [https://www2.deloitte.com/content/dam/Deloitte/ca/Documents/risk/ca-Data-Breach-Customer-Centric-POV-EN-AODA.pdf](https://www2.deloitte.com/content/dam/Deloitte/ca/Documents/risk/ca-Data-Breach-Customer-Centric-POV-EN-AODA.pdf)
+Deloitte. (n.d.). Taking a customer-centric approach to a data breach Insights from crisis response.
+&nbsp;&nbsp;&nbsp;&nbsp; [https://www2.deloitte.com/content/dam/Deloitte/ca/Documents/risk/ca-Data-Breach-Customer-Centric-POV-EN-AODA.pdf](https://www2.deloitte.com/content/dam/Deloitte/ca/Documents/risk/ca-Data-Breach-Customer-Centric-POV-EN-AODA.pdf)
 
 - Hsu, J., & Moss, E. (2022, August 10). How to Migrate Your Community to a Different Platform Successfully. [https://www.commsor.com/post/how-to-migrate-your-community-to-a-different-platform#:~:text=Switching%20community%20platforms%20is%20a,your%20team%20and%20key%20stakeholders](https://www.commsor.com/post/how-to-migrate-your-community-to-a-different-platform#:~:text=Switching%20community%20platforms%20is%20a,your%20team%20and%20key%20stakeholders)
 
