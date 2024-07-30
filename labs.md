@@ -30,6 +30,7 @@ layout: labs
         <div id="collapseLab1" class="accordion-collapse collapse" aria-labelledby="headingLab1" data-bs-parent="#labsAccordion">
             <div class="accordion-body">
                 <iframe src="https://docs.google.com/document/d/e/2PACX-1vSHYY7Epa-cbxZa8htIqMGAHWpyD4xwov8sX59kDnhmywoI5m7rJ79aDftqQ8OvmQ/pub?embedded=true" style="width:100%; height:500px;" frameborder="0"></iframe>
+                <a class = "btn btn-primary">Download PDF</a>
             </div>
         </div>
     </div>
@@ -44,6 +45,7 @@ layout: labs
             <div class="accordion-body">
                 <strong>Fill in...</strong>
                 <iframe src="https://docs.google.com/document/d/e/2PACX-1vSHYY7Epa-cbxZa8htIqMGAHWpyD4xwov8sX59kDnhmywoI5m7rJ79aDftqQ8OvmQ/pub?embedded=true" style="width:100%; height:500px;" frameborder="0"></iframe>
+                <a class = "btn btn-primary">Download PDF</a>
             </div>
         </div>
     </div>
@@ -58,6 +60,7 @@ layout: labs
             <div class="accordion-body">
                 <strong>Fill in...</strong>
                 <iframe src="https://docs.google.com/document/d/e/2PACX-1vSHYY7Epa-cbxZa8htIqMGAHWpyD4xwov8sX59kDnhmywoI5m7rJ79aDftqQ8OvmQ/pub?embedded=true" style="width:100%; height:500px;" frameborder="0"></iframe>
+                <a class = "btn btn-primary">Download PDF</a>
             </div>
         </div>
     </div>
@@ -72,6 +75,7 @@ layout: labs
             <div class="accordion-body">
                 <strong>Fill in...</strong>
                 <iframe src="https://docs.google.com/document/d/e/2PACX-1vSHYY7Epa-cbxZa8htIqMGAHWpyD4xwov8sX59kDnhmywoI5m7rJ79aDftqQ8OvmQ/pub?embedded=true" style="width:100%; height:500px;" frameborder="0"></iframe>
+                <a class = "btn btn-primary">Download PDF</a>
             </div>
         </div>
     </div>
@@ -86,6 +90,7 @@ layout: labs
             <div class="accordion-body">
                 <strong>Fill in...</strong>
                 <iframe src="https://docs.google.com/document/d/e/2PACX-1vSHYY7Epa-cbxZa8htIqMGAHWpyD4xwov8sX59kDnhmywoI5m7rJ79aDftqQ8OvmQ/pub?embedded=true" style="width:100%; height:500px;" frameborder="0"></iframe>
+                <a class = "btn btn-primary">Download PDF</a>
             </div>
         </div>
     </div>
@@ -100,6 +105,7 @@ layout: labs
             <div class="accordion-body">
                 <strong>Fill in...</strong>
                 <iframe src="https://docs.google.com/document/d/e/2PACX-1vSHYY7Epa-cbxZa8htIqMGAHWpyD4xwov8sX59kDnhmywoI5m7rJ79aDftqQ8OvmQ/pub?embedded=true" style="width:100%; height:500px;" frameborder="0"></iframe>
+                <a class = "btn btn-primary">Download PDF</a>
             </div>
         </div>
     </div>
@@ -114,6 +120,7 @@ layout: labs
             <div class="accordion-body">
                 <strong>Fill in...</strong>
                 <iframe src="https://docs.google.com/document/d/e/2PACX-1vSHYY7Epa-cbxZa8htIqMGAHWpyD4xwov8sX59kDnhmywoI5m7rJ79aDftqQ8OvmQ/pub?embedded=true" style="width:100%; height:500px;" frameborder="0"></iframe>
+                <a class = "btn btn-primary">Download PDF</a>
             </div>
         </div>
     </div>
