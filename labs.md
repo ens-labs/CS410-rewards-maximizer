@@ -2,11 +2,6 @@
 layout: labs
 ---
 
-<h2 style="padding-left: 410px;"> Lab 1 Group Outline | V1 </h2>
-
-<p>&nbsp;</p>
-<div style="text-align: center"><iframe src="https://docs.google.com/document/d/e/2PACX-1vSHYY7Epa-cbxZa8htIqMGAHWpyD4xwov8sX59kDnhmywoI5m7rJ79aDftqQ8OvmQ/pub?embedded=true" frameborder="0" width="810" height="650" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
-
 <!-- Include Bootstrap CSS -->
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
 
@@ -14,7 +9,7 @@ layout: labs
     <!-- Lab 1 Group -->
     <div class="accordion-item">
         <h2 class="accordion-header" id="headingLab0">
-            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseLab1" aria-expanded="true" aria-controls="collapseLab1">
+            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseLab0" aria-expanded="true" aria-controls="collapseLab0">
                 Lab 1 Group Outline
             </button>
         </h2>
@@ -43,11 +38,11 @@ layout: labs
     <!-- Lab 1 Individual (Daniel) -->
     <div class="accordion-item">
         <h2 class="accordion-header" id="headingLab2">
-            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseLab1" aria-expanded="true" aria-controls="collapseLab1">
+            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseLab2" aria-expanded="true" aria-controls="collapseLab2">
                 Lab 1 Individual - Daniel Del Río
             </button>
         </h2>
-        <div id="collapseLab1" class="accordion-collapse collapse show" aria-labelledby="headingLab1" data-bs-parent="#labsAccordion">
+        <div id="collapseLab2" class="accordion-collapse collapse show" aria-labelledby="headingLab2" data-bs-parent="#labsAccordion">
             <div class="accordion-body">
                 <strong>Fill in...</strong>
                 <iframe src="https://docs.google.com/document/d/e/2PACX-1vSHYY7Epa-cbxZa8htIqMGAHWpyD4xwov8sX59kDnhmywoI5m7rJ79aDftqQ8OvmQ/pub?embedded=true" style="width:100%; height:500px;" frameborder="0"></iframe>
@@ -58,11 +53,11 @@ layout: labs
     <!-- Lab 1 Individual (Correy) -->
     <div class="accordion-item">
         <h2 class="accordion-header" id="headingLab3">
-            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseLab1" aria-expanded="true" aria-controls="collapseLab1">
+            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseLab3" aria-expanded="true" aria-controls="collapseLab3">
                 Lab 1 Individual - Correy Xu
             </button>
         </h2>
-        <div id="collapseLab1" class="accordion-collapse collapse show" aria-labelledby="headingLab1" data-bs-parent="#labsAccordion">
+        <div id="collapseLab3" class="accordion-collapse collapse show" aria-labelledby="headingLab3" data-bs-parent="#labsAccordion">
             <div class="accordion-body">
                 <strong>Fill in...</strong>
                 <iframe src="https://docs.google.com/document/d/e/2PACX-1vSHYY7Epa-cbxZa8htIqMGAHWpyD4xwov8sX59kDnhmywoI5m7rJ79aDftqQ8OvmQ/pub?embedded=true" style="width:100%; height:500px;" frameborder="0"></iframe>
@@ -73,11 +68,11 @@ layout: labs
         <!-- Lab 1 Individual (Brendan) -->
     <div class="accordion-item">
         <h2 class="accordion-header" id="headingLab4">
-            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseLab1" aria-expanded="true" aria-controls="collapseLab1">
+            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseLab4" aria-expanded="true" aria-controls="collapseLab4">
                 Lab 1 Individual - Brendan Hearrell
             </button>
         </h2>
-        <div id="collapseLab1" class="accordion-collapse collapse show" aria-labelledby="headingLab1" data-bs-parent="#labsAccordion">
+        <div id="collapseLab4" class="accordion-collapse collapse show" aria-labelledby="headingLab4" data-bs-parent="#labsAccordion">
             <div class="accordion-body">
                 <strong>Fill in...</strong>
                 <iframe src="https://docs.google.com/document/d/e/2PACX-1vSHYY7Epa-cbxZa8htIqMGAHWpyD4xwov8sX59kDnhmywoI5m7rJ79aDftqQ8OvmQ/pub?embedded=true" style="width:100%; height:500px;" frameborder="0"></iframe>
@@ -88,11 +83,11 @@ layout: labs
     <!-- Lab 1 Individual (Josh) -->
     <div class="accordion-item">
         <h2 class="accordion-header" id="headingLab5">
-            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseLab1" aria-expanded="true" aria-controls="collapseLab1">
+            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseLab5" aria-expanded="true" aria-controls="collapseLab5">
                 Lab 1 Individual - Josh Annor
             </button>
         </h2>
-        <div id="collapseLab1" class="accordion-collapse collapse show" aria-labelledby="headingLab1" data-bs-parent="#labsAccordion">
+        <div id="collapseLab5" class="accordion-collapse collapse show" aria-labelledby="headingLab5" data-bs-parent="#labsAccordion">
             <div class="accordion-body">
                 <strong>Fill in...</strong>
                 <iframe src="https://docs.google.com/document/d/e/2PACX-1vSHYY7Epa-cbxZa8htIqMGAHWpyD4xwov8sX59kDnhmywoI5m7rJ79aDftqQ8OvmQ/pub?embedded=true" style="width:100%; height:500px;" frameborder="0"></iframe>
@@ -103,11 +98,11 @@ layout: labs
     <!-- Lab 1 Individual (Derek) -->
     <div class="accordion-item">
         <h2 class="accordion-header" id="headingLab6">
-            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseLab1" aria-expanded="true" aria-controls="collapseLab1">
+            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseLab6" aria-expanded="true" aria-controls="collapseLab6">
                 Lab 1 Individual - Derek Caldwell
             </button>
         </h2>
-        <div id="collapseLab1" class="accordion-collapse collapse show" aria-labelledby="headingLab1" data-bs-parent="#labsAccordion">
+        <div id="collapseLab6" class="accordion-collapse collapse show" aria-labelledby="headingLab6" data-bs-parent="#labsAccordion">
             <div class="accordion-body">
                 <strong>Fill in...</strong>
                 <iframe src="https://docs.google.com/document/d/e/2PACX-1vSHYY7Epa-cbxZa8htIqMGAHWpyD4xwov8sX59kDnhmywoI5m7rJ79aDftqQ8OvmQ/pub?embedded=true" style="width:100%; height:500px;" frameborder="0"></iframe>
@@ -118,11 +113,11 @@ layout: labs
     <!-- Lab 1 Individual (Colin) -->
     <div class="accordion-item">
         <h2 class="accordion-header" id="headingLab7">
-            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseLab1" aria-expanded="true" aria-controls="collapseLab1">
+            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseLab7" aria-expanded="true" aria-controls="collapseLab7">
                 Lab 1 Individual - Colin Thoe
             </button>
         </h2>
-        <div id="collapseLab1" class="accordion-collapse collapse show" aria-labelledby="headingLab1" data-bs-parent="#labsAccordion">
+        <div id="collapseLab7" class="accordion-collapse collapse show" aria-labelledby="headingLab7" data-bs-parent="#labsAccordion">
             <div class="accordion-body">
                 <strong>Fill in...</strong>
                 <iframe src="https://docs.google.com/document/d/e/2PACX-1vSHYY7Epa-cbxZa8htIqMGAHWpyD4xwov8sX59kDnhmywoI5m7rJ79aDftqQ8OvmQ/pub?embedded=true" style="width:100%; height:500px;" frameborder="0"></iframe>
