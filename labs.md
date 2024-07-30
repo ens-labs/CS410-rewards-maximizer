@@ -5,8 +5,6 @@ layout: labs
 <!-- Include Bootstrap CSS -->
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
 
-<
-
 <div class="accordion" id="labsAccordion">
     <!-- Lab 1 Group -->
     <div class="accordion-item">
@@ -18,10 +16,10 @@ layout: labs
         <div id="collapseLab0" class="accordion-collapse collapse" aria-labelledby="headingLab0" data-bs-parent="#labsAccordion">
             <div class="accordion-body">
                 <iframe src="https://docs.google.com/document/d/e/2PACX-1vSHYY7Epa-cbxZa8htIqMGAHWpyD4xwov8sX59kDnhmywoI5m7rJ79aDftqQ8OvmQ/pub?embedded=true" style="width:100%; height:500px;" frameborder="0"></iframe>
+                <a class = "btn btn-primary">Download PDF</a>
             </div>
         </div>
     </div>
-
     <!-- Lab 1 Individual (Tori) -->
     <div class="accordion-item">
         <h2 class="accordion-header" id="headingLab1">
@@ -35,7 +33,6 @@ layout: labs
             </div>
         </div>
     </div>
-
     <!-- Lab 1 Individual (Daniel) -->
     <div class="accordion-item">
         <h2 class="accordion-header" id="headingLab2">
@@ -50,7 +47,6 @@ layout: labs
             </div>
         </div>
     </div>
-
     <!-- Lab 1 Individual (Correy) -->
     <div class="accordion-item">
         <h2 class="accordion-header" id="headingLab3">
@@ -65,7 +61,6 @@ layout: labs
             </div>
         </div>
     </div>
-
     <!-- Lab 1 Individual (Brendan) -->
     <div class="accordion-item">
         <h2 class="accordion-header" id="headingLab4">
@@ -80,7 +75,6 @@ layout: labs
             </div>
         </div>
     </div>
-
     <!-- Lab 1 Individual (Josh) -->
     <div class="accordion-item">
         <h2 class="accordion-header" id="headingLab5">
@@ -95,7 +89,6 @@ layout: labs
             </div>
         </div>
     </div>
-
     <!-- Lab 1 Individual (Derek) -->
     <div class="accordion-item">
         <h2 class="accordion-header" id="headingLab6">
@@ -110,7 +103,6 @@ layout: labs
             </div>
         </div>
     </div>
-
     <!-- Lab 1 Individual (Colin) -->
     <div class="accordion-item">
         <h2 class="accordion-header" id="headingLab7">
@@ -125,7 +117,6 @@ layout: labs
             </div>
         </div>
     </div>
-
 </div>
 
 <!-- Bootstrap JS and dependencies -->
