@@ -202,6 +202,18 @@ dt {
           display:inline-block;
           text-align:center;
 
+          .btn-primary {
+            color: white;
+            border: 1px solid #5d910b;
+            background: linear-gradient(#93bd20, #659e10);
+            background-color: #93bd20;
+            border-radius: 2px;
+            box-shadow: inset 0px 1px 0px rgba(255,255,255,0.3), 0px 3px 7px rgba(0,0,0,0.7);
+            padding: 10px 12px;
+            display: inline-block;
+            text-align: center;
+            transition: all 0.3s ease; // Smooth transition for hover effects
+
           &:hover {
             background: linear-gradient(#749619, #527f0e);
             background-color: #659e10;
@@ -209,6 +221,7 @@ dt {
             box-shadow: inset 0px 1px 1px rgba(0,0,0,.2), 0px 1px 0px rgba(0,0,0,.0);
           }
         }
+      }
 
         &.fork {
           float: left;
