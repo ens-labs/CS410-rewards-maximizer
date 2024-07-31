@@ -59,7 +59,7 @@ layout: labs
         <div id="collapseLab3" class="accordion-collapse collapse" aria-labelledby="headingLab3" data-bs-parent="#labsAccordion">
             <div class="accordion-body">
                 <strong>Fill in...</strong>
-                <iframe src="https://docs.google.com/document/d/e/2PACX-1vSHYY7Epa-cbxZa8htIqMGAHWpyD4xwov8sX59kDnhmywoI5m7rJ79aDftqQ8OvmQ/pub?embedded=true" style="width:100%; height:500px;" frameborder="0"></iframe>
+                <iframe src="https://docs.google.com/document/d/e/2PACX-1vQoJ156sqj3J1H6UGtdnLrLy5AJizvvafoigvLiCJYk3iaK0xYaHl4Jqg0itkbq8w/pub?embedded=true" style="width:100%; height:500px;" frameborder="0"></iframe>
                 <a class = "btn btn-primary" style="background-color: #93bd20; border: 1px solid #527f0e;">Download PDF</a>
             </div>
         </div>
@@ -89,7 +89,7 @@ layout: labs
         <div id="collapseLab5" class="accordion-collapse collapse" aria-labelledby="headingLab5" data-bs-parent="#labsAccordion">
             <div class="accordion-body">
                 <strong>Fill in...</strong>
-                <iframe src="https://docs.google.com/document/d/e/2PACX-1vSHYY7Epa-cbxZa8htIqMGAHWpyD4xwov8sX59kDnhmywoI5m7rJ79aDftqQ8OvmQ/pub?embedded=true" style="width:100%; height:500px;" frameborder="0"></iframe>
+                <iframe src="https://docs.google.com/document/d/1u3LR0gZy2bNFMK0EaXFln_zpTTQkO7UW/edit?usp=sharing&ouid=115961840104631060959&rtpof=true&sd=true" style="width:100%; height:500px;" frameborder="0"></iframe>
                 <a class = "btn btn-primary" style="background-color: #93bd20; border: 1px solid #527f0e;">Download PDF</a>
             </div>
         </div>
