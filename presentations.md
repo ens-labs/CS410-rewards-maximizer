@@ -21,4 +21,4 @@ layout: presentations
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTPOmPyiDz86XsZNSd7YBWteV6uqSB2BfUkijfGdsmY8r-z4Gta_HV9c8orxAk0zesn8y5C8WBLxURv/embed?start=false&loop=false&delayms=3000" frameborder="0" width="650" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <p>&nbsp;</p>
-### [Click here for PDF of presentation ](http://ens-labs.com/CS410-rewards-maximizer/pdfs/Design Presentation_17JUL24.pdf)
+### [Click here for PDF of presentation ](http://ens-labs.com/CS410-rewards-maximizer/pdfs/Design Presentation_01AUG24.pdf)
