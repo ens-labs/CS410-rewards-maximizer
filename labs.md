@@ -16,7 +16,7 @@ layout: labs
         <div id="collapseLab0" class="accordion-collapse collapse" aria-labelledby="headingLab0" data-bs-parent="#labsAccordion">
             <div class="accordion-body">
                 <iframe src="https://docs.google.com/document/d/e/2PACX-1vSHYY7Epa-cbxZa8htIqMGAHWpyD4xwov8sX59kDnhmywoI5m7rJ79aDftqQ8OvmQ/pub?embedded=true" style="width:100%; height:500px;" frameborder="0"></iframe>
-                <a class = "btn btn-primary" style="background-color: #93bd20; border: 1px solid #527f0e;">Download PDF</a>
+                <a class = "btn btn-primary" style="background-color: #93bd20; border: 1px solid #527f0e;" href="pdfs/Lab 1 Group Outline_1AUG24.pdf">Download PDF</a>
             </div>
         </div>
     </div>
@@ -30,7 +30,7 @@ layout: labs
         <div id="collapseLab1" class="accordion-collapse collapse" aria-labelledby="headingLab1" data-bs-parent="#labsAccordion">
             <div class="accordion-body">
                 <iframe src="https://docs.google.com/document/d/e/2PACX-1vT_fuG-uLSDXIs2AAYRBGDV8rY8z-v_qQMKNFK6kvlM71819d3ycIZ-Eo06PslXWw/pub?embedded=true" style="width:100%; height:500px;" frameborder="0"></iframe>
-                <a class = "btn btn-primary" style="background-color: #93bd20; border: 1px solid #527f0e;">Download PDF</a>
+                <a class = "btn btn-primary" style="background-color: #93bd20; border: 1px solid #527f0e;" href="pdfs/Lab 1 First Draft_tori_1AUG24.pdf">Download PDF</a>
             </div>
         </div>
     </div>
@@ -87,7 +87,7 @@ layout: labs
         <div id="collapseLab5" class="accordion-collapse collapse" aria-labelledby="headingLab5" data-bs-parent="#labsAccordion">
             <div class="accordion-body">
                 <strong>Fill in...</strong>
-                <iframe src="https://docs.google.com/document/d/1u3LR0gZy2bNFMK0EaXFln_zpTTQkO7UW/edit?usp=sharing&ouid=115961840104631060959&rtpof=true&sd=true" style="width:100%; height:500px;" frameborder="0"></iframe>
+                <iframe src="https://docs.google.com/document/d/e/2PACX-1vSZh9lS2-9vdVoAfJytElqp7D5J-RmsLaV2FRxSF7etGJPOJ4tfqh-F5FOsTknIkw/pub?embedded=true" style="width:100%; height:500px;" frameborder="0"></iframe>
                 <a class = "btn btn-primary" style="background-color: #93bd20; border: 1px solid #527f0e;">Download PDF</a>
             </div>
         </div>
