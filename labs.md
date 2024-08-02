@@ -43,7 +43,7 @@ layout: labs
         </h2>
         <div id="collapseLab2" class="accordion-collapse collapse" aria-labelledby="headingLab2" data-bs-parent="#labsAccordion">
             <div class="accordion-body">
-                <iframe src="https://docs.google.com/document/d/e/2PACX-1vQftxItXO30X5nRw7oEvUjMNw58T-rX9Vs4mTxCfjxKqDoMoPQlviVKAAlImnFIoeWF4B4YAu5XsHuD/pub?embedded=true" style="width:100%; height:500px;" frameborder="0"></iframe>
+                <iframe src="https://docs.google.com/document/d/e/2PACX-1vRFEj5MGYg3w1P4jlxJWrp5ouN_LfovD28tPSLnyxGfdTopgiGTvEI2LeAESU13Jw/pub?embedded=true" style="width:100%; height:500px;" frameborder="0"></iframe>
                 <a class = "btn btn-primary" style="background-color: #93bd20; border: 1px solid #527f0e;" href="pdfs/Lab 1 First Draft_danny_01AUG24.pdf">Download PDF</a>
             </div>
         </div>
